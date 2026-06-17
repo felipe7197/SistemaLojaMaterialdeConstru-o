@@ -1,0 +1,23 @@
+
+		GOMES MATERIAIS DE CONSTRUÇÃO
+	Rua sao joao da barra numero 312
+	Telefone: 464646465654
+	Email: atendimento@gomes.com
+************************************************************
+Nome Cliente: cliente1
+Tel No: maria
+Nota No: 10083742		Data: 10/06/2026
+************************************************************
+Nome_Prod		HSN	Qtd	Preco	Desconto
+************************************************************
+        
+Marreta     	        	1	R$ 20.00	0%
+
+************************************************************
+Total Vendas(A)		R$ 20.00
+Total Taxa(9%)		R$ 1.80
+Total Servico(9%)		R$ 1.80
+Total Bens_ser(18%)(B)		R$ 3.60
+Valor da Fatura(A+B)		R$ 23.60
+************************************************************
+        

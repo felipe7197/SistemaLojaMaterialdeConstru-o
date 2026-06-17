@@ -1,0 +1,23 @@
+
+		GOMES MATERIAIS DE CONSTRUÇÃO
+	Rua sao joao da barra numero 312
+	Telefone: 464646465654
+	Email: atendimento@gomes.com
+************************************************************
+Nome Cliente: cliente1
+Tel No: 0
+Nota No: 4263652		Data: 04/06/2026
+************************************************************
+Nome_Prod		HSN	Qtd	Preco	Desconto
+************************************************************
+        
+Martelo     	painel 2	2	R$ 150.00	3%
+
+************************************************************
+Total Vendas(A)		R$ 150.00
+Total Taxa(9%)		R$ 13.50
+Total Servico(9%)		R$ 13.50
+Total Bens_ser(18%)(B)		R$ 27.00
+Valor da Fatura(A+B)		R$ 177.00
+************************************************************
+        
